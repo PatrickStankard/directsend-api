@@ -1,7 +1,7 @@
 #!/bin/sh
 
 NODE_ENV="production"
-PORT="80"
+PORT="443"
 APP_DIR="/var/www/directsend"
 NODE_APP="app.js"
 CONFIG_DIR="$APP_DIR"
